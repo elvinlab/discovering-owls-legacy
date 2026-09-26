@@ -12,4 +12,4 @@ Vue 3, TypeScript, Vite
 
 ## Demo
 
-> 🔌 **Demo offline** — the backend this project depended on has been retired, so the live demo is no longer available.
+> 🔌 **Demo offline** — the deployed demo no longer loads correctly and is not maintained.
