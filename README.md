@@ -12,4 +12,4 @@ Vue 3, TypeScript, Vite
 
 ## Demo
 
-https://discovering-owls.netlify.app
+> 🔌 **Demo offline** — the backend this project depended on has been retired, so the live demo is no longer available.
